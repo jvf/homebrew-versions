@@ -1,4 +1,6 @@
-# Jvf Versions
+# Homebrew Versions
+
+My personal tap to maintain some old versions of formulae.
 
 ## How do I install these formulae?
 `brew install jvf/versions/<formula>`
